@@ -1,6 +1,6 @@
 # HTML to Markdown Test Files for [lightfeed-extract](https://github.com/lightfeed/lightfeed-extract)
 
-This repository contains test files for validating HTML to Markdown conversion functionality. It specifically tests two conversion variants:
+This repository contains test files for validating HTML to LLM-extractor-ready Markdown conversion functionality. It specifically tests two conversion variants:
 
 1. **Full Conversion** - Converting all HTML content to Markdown
 2. **Main Content Extraction** - Extracting and converting only the main content from HTML files
