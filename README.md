@@ -34,7 +34,11 @@ Files follow a specific naming pattern to clearly indicate their purpose:
 - `groundtruth/[category]/[file-name].images.md` - Expected output for conversion with images
 
 For example:
-- `html/forum/tech-0.html` - Original forum HTML file
-- `groundtruth/forum/tech-0.md` - Expected Markdown after basic conversion (no images)
-- `groundtruth/forum/tech-0.main.md` - Expected Markdown when only extracting main content (no images)
-- `groundtruth/forum/tech-0.images.md` - Expected Markdown with images included
+- `html/forum/tech.html` - Original forum HTML file
+- `groundtruth/forum/tech.md` - Expected Markdown after basic conversion (no images)
+- `groundtruth/forum/tech.main.md` - Expected Markdown when only extracting main content (no images)
+- `groundtruth/forum/tech.images.md` - Expected Markdown with images included
+
+## Test HTML Files
+
+The HTML test files included in this repository are used solely for testing purposes. All files have been sanitized to replace personal information and sensitive content with generic placeholders. The structure and formatting of the HTML is preserved for testing purposes.

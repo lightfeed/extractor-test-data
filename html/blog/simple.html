@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Understanding Async/Await in JavaScript</title>
+</head>
+<body>
+  <header>
+    <h1>Lorem ipsum dolor sit amet, consectetur</h1>
+    <div class="meta">
+      <span class="author">Lorem ip</span>
+      <span class="date">Lorem ipsum dolo</span>
+      <div class="tags">
+        <span>Lorem ipsu</span>
+        <span>Lorem</span>
+        <span>Lorem ipsum</span>
+      </div>
+    </div>
+  </header>
+  
+  <article>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercit</p>
+    
+    <h2>Lorem ipsum dolor si</h2>
+    <p>The <code>async</code> keyword is used to declare an asynchronous function. An async function automatically returns a promise, and the value returned by the function will be resolved with the returned promise.</p>
+    
+    <p>The <code>await</code> keyword can only be used inside an async function. It pauses the execution of the function until the promise is resolved or rejected.</p>
+    
+    <h2>Lorem ipsum d</h2>
+    <pre><code>
+async function fetchData() {
+  const response = await fetch('https://api.example.com/data');
+  const data = await response.json();
+  return data;
+}
+    </code></pre>
+    
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo cons</p>
+    
+    <h2>Lorem ipsum do</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut </p>
+    
+    <pre><code>
+async function fetchData() {
+  try {
+    const response = await fetch('https://api.example.com/data');
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching data:', error);
+    throw error;
+  }
+}
+    </code></pre>
+    
+    <h2>Lorem ipsu</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
+  </article>
+  
+  <footer>
+    <p>Lorem ipsum dolor sit </p>
+  </footer>
+
+ </body></html>
