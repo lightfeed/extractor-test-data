@@ -1,8 +1,8 @@
 [Page Link](/placeholder-page)
 
-[Page Link](/placeholder-page)
+Search [Page Link](/placeholder-page)
 
-[Page Link](/placeholder-page)
+Search [Page Link](/placeholder-page)
 
 [![Bethel, CT](https://picsum.photos/300/200)](/placeholder-page)
 
@@ -11,6 +11,8 @@ L
 [](/placeholder-page)
 
 Lorem ipsum dolor sit amet, consec
+
+Search
 
 Lor
 

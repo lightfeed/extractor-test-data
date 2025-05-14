@@ -50,6 +50,16 @@ Lorem ipsum dolor s
 
 Lorem ipsum dolor sit amet, consectetur a Required fields are marked L
 
+Comment L
+
+Name L
+
+Email L
+
+Website
+
+Δ
+
 This site uses Akismet to reduce spam. [External Link](https://example.com/external-link).
 
 Copyright © 2024 Incubate Ventures | [External Link](https://example.com/external-link) · [External Link](https://example.com/external-link) · [External Link](https://example.com/external-link) · [External Link](https://example.com/external-link) · [External Link](https://example.com/external-link) | [Page Link](/placeholder-page)

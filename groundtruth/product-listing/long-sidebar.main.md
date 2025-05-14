@@ -5,6 +5,8 @@ Lo
 
 **76618** Products found Lorem ip[](https://example.com/external-link)[](https://example.com/external-link)
 
+Results per page 12 24 48 108
+
 [Page Link](/placeholder-page)
 
 Manufacturer: **Thomas & Betts Co**
@@ -25,6 +27,8 @@ Lo
 
 Order in multiples of 50 (pack qty)
 
+Compare
+
 [Page Link](/placeholder-page)
 
 Manufacturer: **Hubbell Wiring Device**
@@ -42,6 +46,8 @@ Order by **6:00pm** ET for delivery Monday
 Lorem/ea
 
 Lo
+
+Compare
 
 [Page Link](/placeholder-page)
 
@@ -63,6 +69,8 @@ Lo
 
 Order in multiples of 1000 (pack qty)
 
+Compare
+
 [Page Link](/placeholder-page)
 
 Manufacturer: **Raco Manufacturing**
@@ -80,6 +88,8 @@ Order by **6:00pm** ET for delivery Monday
 Lorem ips/c (100 ea)
 
 Lo
+
+Compare
 
 [Page Link](/placeholder-page)
 
@@ -99,6 +109,8 @@ Lorem /ea
 
 Lo
 
+Compare
+
 [Page Link](/placeholder-page)
 
 Manufacturer: **Steel Electric Products**
@@ -116,6 +128,8 @@ Lorem ipsum dolor sit am at **Brockton, MA - Counter**
 Lorem i/c (100 ea)
 
 Lo
+
+Compare
 
 [Page Link](/placeholder-page)
 
@@ -135,6 +149,8 @@ Lorem /ea
 
 Lo
 
+Compare
+
 [Page Link](/placeholder-page)
 
 Manufacturer: **Allen-Bradley / Rockwell**
@@ -152,6 +168,8 @@ Lorem ipsum dolor sit am at **Brockton, MA - Counter**
 Lorem ips/ea
 
 Lo
+
+Compare
 
 [Page Link](/placeholder-page)
 
@@ -171,6 +189,8 @@ Lorem ips/ea
 
 Lo
 
+Compare
+
 [Page Link](/placeholder-page)
 
 Manufacturer: **Allen-Bradley / Rockwell**
@@ -188,6 +208,8 @@ Lorem ipsum dolor sit am at **Brockton, MA - Counter**
 Lorem i/ea
 
 Lo
+
+Compare
 
 [Page Link](/placeholder-page)
 
@@ -207,6 +229,8 @@ Lorem/ea
 
 Lo
 
+Compare
+
 [Page Link](/placeholder-page)
 
 Manufacturer: **Allen-Bradley / Rockwell**
@@ -225,7 +249,11 @@ Lorem i/ea
 
 Lo
 
+Compare
+
 **76618** Products found Lorem ip[](https://example.com/external-link)[](https://example.com/external-link)
+
+Results per page 12 24 48 108
 
 * * *
 

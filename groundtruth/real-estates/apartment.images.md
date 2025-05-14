@@ -17,6 +17,8 @@ L
 Lorem ipsum dolor sit amet,
 ===========================
 
+search titles onlyhas imageposted todayshow duplicates
+
 Lorem ipsum dolo
 
 L
@@ -32,6 +34,41 @@ Lorem ip
 Lorem ips
 
 Lorem
+
+cats okdogs okfurnishedno smokingwheelchair accessibleair conditioningEV chargingno application feeno broker fee
+
+*   daily
+*   weekly
+*   monthly
+
+all dateswithin 30 daysbeyond 30 days
+
+*   apartment
+*   condo
+*   cottage/cabin
+*   duplex
+*   flat
+*   house
+*   in-law
+*   loft
+*   townhouse
+*   manufactured
+*   assisted living
+*   land
+
+*   w/d in unit
+*   w/d hookups
+*   laundry in bldg
+*   laundry on site
+*   no laundry on site
+
+*   carport
+*   attached garage
+*   detached garage
+*   off-street parking
+*   street parking
+*   valet parking
+*   no parking
 
 Lorem ipsum dol
 

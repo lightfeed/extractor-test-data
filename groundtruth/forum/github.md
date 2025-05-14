@@ -7,6 +7,8 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. S
 ==========================================================
 
+Search
+
 Lorem
 
 [External Link](https://example.com/external-link)
