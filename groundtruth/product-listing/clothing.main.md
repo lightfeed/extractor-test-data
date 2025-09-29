@@ -25,6 +25,8 @@ Lorem ipsum
 
 Lorem ipsum dolor sit amet,
 
+All ItemsAvailable Near You
+
 Sort by
 
 Lorem ipsum
@@ -9812,6 +9814,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed doCompare
 
 Lorem ipsum dolor s
 
+View More Products
+
 Lorem ipsum dolor
 -----------------
 
@@ -9872,4 +9876,8 @@ Lorem ipsum do Lorem
 
 Lorem ipsum do Lorem
 
+Clear
+
 Lorem ipsum do Lorem
+
+Apply Cancel

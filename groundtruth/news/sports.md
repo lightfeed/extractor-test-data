@@ -1,4 +1,4 @@
-[Page Link](/placeholder-page) Lorem ipsum dolor sit
+[Page Link](/placeholder-page) Pause All Rotators Lorem ipsum dolor sit
 
 [Page Link](/placeholder-page)
 
@@ -6,6 +6,10 @@ Lorem ipsum dolor sit amet, consectet
 =====================================
 
 [](/placeholder-page)
+
+Lorem
+
+Go
 
 [Page Link](/placeholder-page "Upper Right Header")
 
@@ -15,6 +19,7 @@ Lorem ipsum do
 *   Search...
 *   Sports Dropdown All Sports APEXAthletic FoundationBaseballCommunications & Creative ServicesFootballMarketing & Fan ExperienceMen's BasketballMen's GolfMen's SoccerMen's TennisSoftballSpecial EventsSport PerformanceStudent-Athlete ServicesSwimming and DivingTrack & Field/XCVolleyballWomen's BasketballWomen's GolfWomen's RifleWomen's SoccerWomen's Tennis
 *   Season Dropdown All Seasons 2024202320222021202020192018201720162015201420132012201120102009200820071906
+*   Go
 
 Story Archives
 
@@ -264,6 +269,12 @@ Women's Basketball
 
 STATESBORO - Georgia Southern women's basketball head coach Hana Haden has finalized her roster for the upcoming 2024-25, announcing the addition of seven new student-athletes to play for the Eagles.
 
+*   1
+*   2
+*   3
+*   4
+*   5
+
 [Page Link](/placeholder-page)
 
 Lorem
@@ -291,3 +302,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 Lorem ipsum dolor sit amet,
 
 [External Link](https://example.com/external-link)
+
+Close

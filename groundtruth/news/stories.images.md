@@ -1,5 +1,7 @@
 [Page Link](/placeholder-page "Google News")
 
+Lorem ipsum dol
+
 Lore
 
 *   Lore

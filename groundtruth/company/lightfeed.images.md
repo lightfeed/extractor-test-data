@@ -2,6 +2,8 @@
 
 [Page Link](/placeholder-page)
 
+[Page Link](/placeholder-page)
+
 Lorem ipsum dolo
 ================
 
@@ -164,7 +166,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
 Lor
 ---
 
+Why Lightfeed uses LLM (large language model) to extract web data?
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercit
+
+How does Lightfeed extract and index websites?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
@@ -172,11 +178,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 *   Lorem ipsum dolor sit amet, c Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
 *   Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. S
 
+What LLMs is Lightfeed using?
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqui
+
+Is Lightfeed open source?
 
 We will open source the LLM extractor and benchmarks on [External Link](https://example.com/external-link) soon.
 
+How to get customer support?
+
 We have a [External Link](https://example.com/external-link) where you can request assistance, report issues and exchange ideas. We look forward to meet you there.
+
+I want to use Lightfeed in my team. Do you have a business plan?
 
 We are creating a business plan now that supports team access and 80+ integration providers. If you are interested in trying it early, please [External Link](https://example.com/external-link) or [Email Link](mailto:example@example.com).
 

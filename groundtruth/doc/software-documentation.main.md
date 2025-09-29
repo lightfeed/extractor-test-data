@@ -1,5 +1,7 @@
 [Page Link](/placeholder-page)
 
+Return to top
+
 Lorem ipsum
 
 Search API [Page Link](/placeholder-page)

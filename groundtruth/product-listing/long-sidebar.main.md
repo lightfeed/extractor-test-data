@@ -27,6 +27,8 @@ Lo
 
 Order in multiples of 50 (pack qty)
 
+Lorem ipsum
+
 Compare
 
 [Page Link](/placeholder-page)
@@ -46,6 +48,8 @@ Order by **6:00pm** ET for delivery Monday
 Lorem/ea
 
 Lo
+
+Lorem ipsum
 
 Compare
 
@@ -69,6 +73,8 @@ Lo
 
 Order in multiples of 1000 (pack qty)
 
+Lorem ipsum
+
 Compare
 
 [Page Link](/placeholder-page)
@@ -88,6 +94,8 @@ Order by **6:00pm** ET for delivery Monday
 Lorem ips/c (100 ea)
 
 Lo
+
+Lorem ipsum
 
 Compare
 
@@ -109,6 +117,8 @@ Lorem /ea
 
 Lo
 
+Lorem ipsum
+
 Compare
 
 [Page Link](/placeholder-page)
@@ -128,6 +138,8 @@ Lorem ipsum dolor sit am at **Brockton, MA - Counter**
 Lorem i/c (100 ea)
 
 Lo
+
+Lorem ipsum
 
 Compare
 
@@ -149,6 +161,8 @@ Lorem /ea
 
 Lo
 
+Lorem ipsum
+
 Compare
 
 [Page Link](/placeholder-page)
@@ -168,6 +182,8 @@ Lorem ipsum dolor sit am at **Brockton, MA - Counter**
 Lorem ips/ea
 
 Lo
+
+Lorem ipsum
 
 Compare
 
@@ -189,6 +205,8 @@ Lorem ips/ea
 
 Lo
 
+Lorem ipsum
+
 Compare
 
 [Page Link](/placeholder-page)
@@ -208,6 +226,8 @@ Lorem ipsum dolor sit am at **Brockton, MA - Counter**
 Lorem i/ea
 
 Lo
+
+Lorem ipsum
 
 Compare
 
@@ -229,6 +249,8 @@ Lorem/ea
 
 Lo
 
+Lorem ipsum
+
 Compare
 
 [Page Link](/placeholder-page)
@@ -249,6 +271,8 @@ Lorem i/ea
 
 Lo
 
+Lorem ipsum
+
 Compare
 
 **76618** Products found Lorem ip[](https://example.com/external-link)[](https://example.com/external-link)
@@ -259,4 +283,4 @@ Results per page 12 24 48 108
 
 * * *
 
-[Page Link](/placeholder-page)
+[Page Link](/placeholder-page) Clear All

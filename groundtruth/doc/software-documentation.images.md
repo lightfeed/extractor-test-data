@@ -8,6 +8,10 @@ Lorem ipsu
 
 [External Link](https://example.com/external-link)
 
+Lore
+
+Return to top
+
 Lorem ipsum
 
 Search API [Page Link](/placeholder-page)

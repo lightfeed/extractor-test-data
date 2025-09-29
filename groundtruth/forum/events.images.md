@@ -14,9 +14,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 L
 
+Lorem ips
+
 [](/placeholder-page)
 
 ![City Icon](https://picsum.photos/300/200)
+
+Lorem ips
 
 Lorem ips
 
@@ -27,6 +31,8 @@ Lorem ips
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut l
 
 L
+
+Lorem ips
 
 Lorem
 -----

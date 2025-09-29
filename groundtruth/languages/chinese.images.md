@@ -72,7 +72,7 @@ Lo
 
 Lo
 
-\- [Page Link](/placeholder-page) Lorem i
+\- 确定 [Page Link](/placeholder-page) Lorem i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna a
 
