@@ -4,15 +4,7 @@
 
 Cancel
 
-Lorem ipsum dolor sit
-
-Lorem ipsum dolor sit amet, consectetur adipiscing
-
 Lorem i
-
-* * *
-
-* * *
 
 Lorem ip
 --------
@@ -32,32 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
 
 Lorem ipsum dolor sit amet,
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
-------------------------------------------------------------------------------
-
-**4.5**(784 Reviews)
-
-**Model:** CAM51035M
-
-**Web Code:** 16693342
-
-Lorem i
-
-$649Lo
-
-Lorem ip
-
-Lorem ipsum do
-
-Lorem ipsum
-
-Lorem i
-
-Lorem i
-
-Lorem ip
-
-Lorem ipsum do
+Lorem iLorem ip
 
 What is EHF?
 
@@ -600,19 +567,7 @@ Lorem ipsum dolor sit amet
     [Page Link](/placeholder-page)
     
 
-* * *
-
-Lorem ips
-
-Lorem ips
-
-Lorem i
-
-Lorem i
-
-Lorem ip
-
-Lorem ipsum do
+Lorem iLorem ip
 
 Lorem ipsum
 

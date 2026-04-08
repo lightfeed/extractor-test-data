@@ -24,12 +24,6 @@ Lorem ipsum dolor sit amet
 *   ![Launch Academy](https://picsum.photos/120/120)
 *   ![AInBC](https://picsum.photos/120/120)
 
-*   ![Microsoft for Startups](https://picsum.photos/120/120)
-*   ![OpenAI](https://picsum.photos/120/120)
-*   ![Vancouver Tech Journal](https://picsum.photos/120/120)
-*   ![Launch Academy](https://picsum.photos/120/120)
-*   ![AInBC](https://picsum.photos/120/120)
-
 Lorem i
 
 Data from websites are Lorem ipsu and Lorem i

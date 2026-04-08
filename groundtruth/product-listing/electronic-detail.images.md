@@ -4,35 +4,11 @@
 
 Cancel
 
-![Thumbnail image 1 of 11.](https://picsum.photos/300/200)![Thumbnail image 2 of 11.](https://picsum.photos/300/200)![Placeholder image](https://picsum.photos/300/200)![Thumbnail image 3 of 11.](https://picsum.photos/300/200)![Placeholder image](https://picsum.photos/300/200)![Thumbnail image 4 of 11.](https://picsum.photos/300/200)![Thumbnail image 5 of 11.](https://picsum.photos/300/200)![Thumbnail image 6 of 11.](https://picsum.photos/300/200)![Thumbnail image 7 of 11.](https://picsum.photos/300/200)![Thumbnail image 8 of 11.](https://picsum.photos/300/200)![Thumbnail image 9 of 11.](https://picsum.photos/300/200)![Thumbnail image 10 of 11.](https://picsum.photos/300/200)![Thumbnail image 11 of 11.](https://picsum.photos/300/200)
-
-![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/500px/500px)
-
-Lorem ipsum dolor sit
-
-Lorem ipsum dolor sit amet, consectetur adipiscing
-
-![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/500px/500px)
-
-![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/500px/500px)
-
-![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/500px/500px)
-
-![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/500px/500px)
-
-![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/500px/500px)
-
-![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/500px/500px)
-
-![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/500px/500px)
+![Thumbnail image 1 of 11.](https://picsum.photos/300/200)![Thumbnail image 2 of 11.](https://picsum.photos/300/200)![Placeholder image](https://picsum.photos/300/200)![Thumbnail image 3 of 11.](https://picsum.photos/300/200)![Placeholder image](https://picsum.photos/300/200)![Thumbnail image 4 of 11.](https://picsum.photos/300/200)![Thumbnail image 5 of 11.](https://picsum.photos/300/200)![Thumbnail image 6 of 11.](https://picsum.photos/300/200)
 
 ![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/500px/500px)
 
 Lorem i
-
-* * *
-
-* * *
 
 Lorem ip
 --------
@@ -52,34 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
 
 Lorem ipsum dolor sit amet,
 
-![De'Longhi TrueBrew Automatic Coffee Machine w/ Thermal Carafe - Black/Stainless](https://picsum.photos/300/200)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
-------------------------------------------------------------------------------
-
-**4.5**(784 Reviews)
-
-**Model:** CAM51035M
-
-**Web Code:** 16693342
-
-Lorem i
-
-$649Lo
-
-Lorem ip
-
-Lorem ipsum do
-
-Lorem ipsum
-
-Lorem i
-
-Lorem i
-
-Lorem ip
-
-Lorem ipsum do
+Lorem iLorem ip
 
 What is EHF?
 
@@ -622,19 +571,7 @@ Lorem ipsum dolor sit amet
     [Page Link](/placeholder-page)
     
 
-* * *
-
-Lorem ips
-
-Lorem ips
-
-Lorem i
-
-Lorem i
-
-Lorem ip
-
-Lorem ipsum do
+Lorem iLorem ip
 
 Lorem ipsum
 

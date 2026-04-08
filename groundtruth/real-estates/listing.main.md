@@ -23,15 +23,7 @@ Sort: Homes for You
     
     Lorem ipsum dolor sit
     
-    Lorem ipsum doLorem ipsu
-    
     [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -49,15 +41,7 @@ Sort: Homes for You
     
     Lorem ipsum dol
     
-    Lorem ipsum doLorem ipsu
-    
     [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -77,15 +61,7 @@ Sort: Homes for You
     
     Lorem ipsum dol
     
-    Lorem ipsum doLorem ipsu
-    
     [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -103,15 +79,7 @@ Sort: Homes for You
     
     Lorem ipsum dolo
     
-    Lorem ipsum doLorem ipsu
-    
     [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -129,15 +97,7 @@ Sort: Homes for You
     
     Lorem ipsum do
     
-    Lorem ipsum doLorem ipsu
-    
     [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum
     
@@ -155,15 +115,7 @@ Sort: Homes for You
     
     Lorem ipsum dol
     
-    Lorem ipsum doLorem ipsu
-    
     [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -181,15 +133,7 @@ Sort: Homes for You
     
     Lorem ipsum dolor
     
-    Lorem ipsum doLorem ipsu
-    
     [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -207,15 +151,7 @@ Sort: Homes for You
     
     Lorem ipsum dolo
     
-    Lorem ipsum doLorem ipsu
-    
     [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -233,15 +169,7 @@ Sort: Homes for You
     
     Lorem ipsum do
     
-    Lorem ipsum doLorem ipsu
-    
     [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    [](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum
     

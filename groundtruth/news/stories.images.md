@@ -1,9 +1,5 @@
 [Page Link](/placeholder-page "Google News")
 
-Lorem ipsum dol
-
-Lore
-
 *   Lore
 *   Lorem i
 *   Lorem
@@ -13,8 +9,6 @@ Lore
 *   Lorem ipsum dol
 
 *   Lorem ipsum d
-
-Lorem ip
 
 *   Lorem ip
 *   Lorem ipsum dolorLorem ipsum dolor sit a
@@ -47,28 +41,10 @@ Lorem ip
 
 [Page Link](/placeholder-page)
 
-Lore
-
 [Page Link](/placeholder-page "Google News")
 
 Lorem ipsum d
 =============
-
-Lorem
-
-LoLo
-
-Lor
-
-LoLo
-
-Lor
-
-LoLo
-
-Lor
-
-LoLo
 
 Lorem ips
 
@@ -80,15 +56,11 @@ Lor
 
 [](/placeholder-page)
 
-![Placeholder image](https://picsum.photos/300/200)
-
 ![Placeholder image](https://picsum.photos/300/200)![Placeholder image](https://picsum.photos/300/200)
 
 ![Placeholder image](https://picsum.photos/300/200)
 
 Lor
-
-Lore
 
 [Page Link](/placeholder-page)
 
@@ -102,8 +74,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing
 
 Lorem ip
 
-Lore
-
 [Page Link](/placeholder-page)
 
 * * *
@@ -115,8 +85,6 @@ Lorem ipsum d
 ![Placeholder image](https://picsum.photos/300/200)
 
 Lorem ipsum dolor si
-
-Lore
 
 [Page Link](/placeholder-page)
 
@@ -130,8 +98,6 @@ Lorem ipsum dolor sit amet, consect
 
 Lorem ipsum d
 
-Lore
-
 [Page Link](/placeholder-page)
 
 [Page Link](/placeholder-page)
@@ -142,11 +108,7 @@ Lore
 
 ![Placeholder image](https://picsum.photos/300/200)
 
-![Placeholder image](https://picsum.photos/300/200)
-
 Lorem ip
-
-Lore
 
 [Page Link](/placeholder-page)
 
@@ -160,8 +122,6 @@ Lorem ipsum dolor sit amet, consectetur adip
 
 Lorem
 
-Lore
-
 [Page Link](/placeholder-page)
 
 [](/placeholder-page)
@@ -169,8 +129,6 @@ Lore
 ![Placeholder image](https://picsum.photos/300/200)
 
 Lorem ipsu
-
-Lore
 
 [Page Link](/placeholder-page)
 
@@ -183,8 +141,6 @@ Lorem ipsum dolor sit amet, consect
 ![Placeholder image](https://picsum.photos/300/200)
 
 Lorem ip
-
-Lore
 
 [Page Link](/placeholder-page)
 
@@ -202,11 +158,7 @@ Lorem ipsum do
 
 Lorem ipsum
 
-Lore
-
 [Page Link](/placeholder-page)
-
-![Placeholder image](https://picsum.photos/300/200)
 
 * * *
 
@@ -222,11 +174,7 @@ Lorem ipsum dolo
 
 Lorem ipsum dolor si
 
-Lore
-
 [Page Link](/placeholder-page)
-
-![Placeholder image](https://picsum.photos/300/200)
 
 * * *
 
@@ -240,7 +188,7 @@ Lorem ipsum dolor si
 
 Sign in for personalized stories in your briefing & news feed
 
-Lorem i[](https://example.com/external-link)
+[](https://example.com/external-link)
 
 Lorem
 

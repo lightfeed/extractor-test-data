@@ -37,15 +37,7 @@ Sort: Homes for You
     
     Lorem ipsum dolor sit
     
-    Lorem ipsum doLorem ipsu
-    
     [![415 Mountain Laurel Ct, Mountain View, CA 94043](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![415 Mountain Laurel Ct, Mountain View, CA 94043](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![415 Mountain Laurel Ct, Mountain View, CA 94043](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -63,15 +55,7 @@ Sort: Homes for You
     
     Lorem ipsum dol
     
-    Lorem ipsum doLorem ipsu
-    
     [![143 Waverly Pl, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![143 Waverly Pl, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![143 Waverly Pl, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -91,15 +75,7 @@ Sort: Homes for You
     
     Lorem ipsum dol
     
-    Lorem ipsum doLorem ipsu
-    
     [![643 Tami Way, Mountain View, CA 94041](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![643 Tami Way, Mountain View, CA 94041](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![643 Tami Way, Mountain View, CA 94041](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -117,15 +93,7 @@ Sort: Homes for You
     
     Lorem ipsum dolo
     
-    Lorem ipsum doLorem ipsu
-    
     [![228 S Rengstorff Ave, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![228 S Rengstorff Ave, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![228 S Rengstorff Ave, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -143,15 +111,7 @@ Sort: Homes for You
     
     Lorem ipsum do
     
-    Lorem ipsum doLorem ipsu
-    
     [![1033 Marilyn Dr, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![1033 Marilyn Dr, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![1033 Marilyn Dr, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum
     
@@ -169,15 +129,7 @@ Sort: Homes for You
     
     Lorem ipsum dol
     
-    Lorem ipsum doLorem ipsu
-    
     [![833 Sierra Vista Ave, Mountain View, CA 94043](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![833 Sierra Vista Ave, Mountain View, CA 94043](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![833 Sierra Vista Ave, Mountain View, CA 94043](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -195,15 +147,7 @@ Sort: Homes for You
     
     Lorem ipsum dolor
     
-    Lorem ipsum doLorem ipsu
-    
     [![532 Tyrella Ave APT 27, Mountain View, CA 94043](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![532 Tyrella Ave APT 27, Mountain View, CA 94043](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![532 Tyrella Ave APT 27, Mountain View, CA 94043](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -221,15 +165,7 @@ Sort: Homes for You
     
     Lorem ipsum dolo
     
-    Lorem ipsum doLorem ipsu
-    
     [![191 E El Camino Real SPACE 113, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![191 E El Camino Real SPACE 113, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![191 E El Camino Real SPACE 113, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum d
     
@@ -247,15 +183,7 @@ Sort: Homes for You
     
     Lorem ipsum do
     
-    Lorem ipsum doLorem ipsu
-    
     [![1011 Barbara Ave, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![1011 Barbara Ave, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    [![1011 Barbara Ave, Mountain View, CA 94040](https://picsum.photos/300/200)](https://example.com/external-link)
-    
-    Lorem ipsum dolor sit amet
     
     Lorem ipsum
     
@@ -413,7 +341,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 *   [![Zillow logo](https://picsum.photos/152/32)](/placeholder-page)
 *   Lorem ipsu[External Link](https://example.com/external-link)[External Link](https://example.com/external-link)[External Link](https://example.com/external-link)
     
-*   Lorem ipsum dolor sitLorem ipsum dolor [External Link](https://example.com/external-link)
+*   Lorem ipsum dolor sit [External Link](https://example.com/external-link)
 
 ![Footer art](https://picsum.photos/1200/160)
 

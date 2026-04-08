@@ -1,8 +1,6 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor inci
 
-Lorem ipsu[](https://example.com/external-link)
-
-Lorem i
+[](https://example.com/external-link)
 
 [External Link](https://example.com/external-link "Drive")
 
@@ -16,13 +14,9 @@ Lorem ips
 
 L
 
-Lorem ipsum dolor si
-
-*   *   Lorem ipsum
+*   *   
     *   Lorem
     *   Lorem ipsum dolo
-
-Lorem
 
 Lorem ipsum
 

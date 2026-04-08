@@ -5061,7 +5061,7 @@ Lorem ipsum
 *   [Page Link](/placeholder-page)
 *   [Page Link](/placeholder-page)
 *   [Page Link](/placeholder-page)
-*   ENGLISH (UNITED STATES) ESPAÑOL (MÉXICO) Lorem ipsum dolor sit a
+*    Lorem ipsum dolor sit a
     
 
 Lorem

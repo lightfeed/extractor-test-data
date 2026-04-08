@@ -37,19 +37,6 @@ Sort by
 
 Sort byLorem ip
 
-FeaturedFeaturedNew ArrivalsTop RatedPrice: High to LowPrice: Low to High
-
-*   Lorem ip
-    
-*   Lorem ipsum
-    
-*   Lorem ips
-    
-*   Lorem ipsum dolor
-    
-*   Lorem ipsum dolor
-    
-
 Lorem ipsum
 -----------
 
